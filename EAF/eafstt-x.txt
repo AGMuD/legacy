@@ -1,0 +1,17 @@
+Ergänzende Hinweise zur Tabelle "eafstt.txt"
+
+Bedeutung der Einträge für die Datenbank Bildungsmedien:
+
+10/Reserviert:
+
+Der Datensatz wurde für eine weitere Erschließung durch die im Attribut T14 genannte Stelle reserviert. Das Reservierungsdatum wird in T18 abgespeichert. Die Vervollständigung des Datensatzes sollte spätestens innerhalb von 2 Wochen erfolgen. Reservierungs-Datensätze werden nur im Erschließungs-Pool der Datenbank nachgewiesen.
+
+20/Erschlossen:
+
+Der voll erschlossene Datensatz wurde von der in T14 genannten Reservierungsstelle in die Datenbank gestellt. Das Datum des Hochladens wird in T18 abgespeichert. Der Datensatz ist ab diesem Zeitpunkt im regulären Datenbestand recherchierbar.
+
+30/Admin-geprüft:
+
+Sofern eine zentrale Adminstelle existiert, wird von dieser nach einer (kurzen) Überprüfung unter übergreifenden Aspekten der Status auf 30 gesetzt. Das dazugehörige Datum wird in T18 eingetragen.
+
+Der Datensatz kann später jederzeit von dem Erschließer korrigiert und wieder hochgeladen werden. Ebenso kann die Adminstelle notfalls auch direkt Korrekturen vornehmen.

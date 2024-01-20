@@ -1,0 +1,23 @@
+Info #Infoprogramm
+KJ   #Keine Jugendfreigabe
+KJ ff#Keine Jugendfreigabe, Feiertagsfrei
+KJ nf#Keine Jugendfreigabe, Nicht feiertagsfrei
+Lehr #Lehrprogramm
+OA   #Freigegeben ohne Altersbeschränkung
+OA ff#Freigegeben ohne Altersbeschränkung, Feiertagsfrei
+OA nf#Freigegeben ohne Altersbeschränkung, Nicht feiertagsfrei
+0    #Freigegeben ab 0 Jahren
+0 ff #Freigegeben ab 0 Jahren, Feiertagsfrei
+0 nf #Freigegeben ab 0 Jahren, Nicht feiertagsfrei
+12   #Freigegeben ab 12 Jahren
+12 ff#Freigegeben ab 12 Jahren, Feiertagsfrei
+12 nf#Freigegeben ab 12 Jahren, Nicht feiertagsfrei
+16   #Freigegeben ab 16 Jahren
+16 ff#Freigegeben ab 16 Jahren, Feiertagsfrei
+16 nf#Freigegeben ab 16 Jahren, Nicht feiertagsfrei
+18   #Nicht freigegeben unter 18 Jahren
+18 ff#Nicht freigegeben unter 18 Jahren, Feiertagsfrei
+18 nf#Nicht freigegeben unter 18 Jahren, Nicht feiertagsfrei
+6    #Freigegeben ab 6 Jahren
+6 ff #Freigegeben ab 6 Jahren, Feiertagsfrei
+6 nf #Freigegeben ab 6 Jahren, Nicht feiertagsfrei

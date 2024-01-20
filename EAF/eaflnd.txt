@@ -1,0 +1,203 @@
+A  #Österreich
+AFG#Afghanistan
+AL #Albanien
+AND#Andorra
+ANG#Angola
+ARM#Armenien
+AUS#Australien
+AX #Åland
+AZ #Aserbaidschan
+B  #Belgien
+BD #Bangladesch
+BDS#Barbados
+BF #Burkina Faso
+BG #Bulgarien
+BH #Belize (Brit. Honduras)
+BHT#Bhutan
+BIH#Bosnien und Herzegowina
+BOL#Bolivien
+BR #Brasilien
+BRN#Bahrain
+BRU#Brunei Darussalam
+BS #Bahamas
+BY #Belarus (Weißrussland)
+C  #Kuba
+CAM#Kamerun
+CD #Kongo, Demokratische Republik (ehem. Zaire)
+CDN#Kanada
+CH #Schweiz
+CHI#Chinesische Volksrepublik
+CI #Côte d'Ivoire (Elfenbeinküste)
+CL #Sri Lanka (Ceylon)
+CO #Kolumbien
+COM#Komoren
+CR #Costa Rica
+CS #Tschechoslowakei
+CV #Kap Verde
+CY #Zypern
+CZ #Tschechische Republik
+D  #Bundesrepublik Deutschland
+DBZ#Deutschland 1945 bis 1949
+DDR#Deutsche Demokratische Republik
+DK #Dänemark
+DOM#Dominikanische Republik
+DR #Deutschland bis 1945
+DY #Benin
+DZ #Algerien
+E  #Spanien
+EAK#Kenia
+EAT#Tansania
+EAU#Uganda
+EAZ#Sansibar
+EC #Ecuador
+ER #Eritrea
+ES #El Salvador
+EST#Estland
+ET #Ägypten
+ETH#Äthiopien
+F  #Frankreich
+FIN#Finnland
+FJI#Fidschi
+FL #Liechtenstein
+FR #Färöer
+FSM#Mikronesien
+G  #Gabun
+GB #Großbritannien
+GBA#Großbritannien-Alderney
+GBG#Großbritannien-Guernsey
+GBJ#Großbritannien-Jersey
+GBM#Großbritannien-Insel Man
+GBZ#Gibraltar
+GCA#Guatemala
+GE #Georgien
+GH #Ghana
+GN #Guinea-Bissau
+GQ #Äquatorialguinea
+GR #Griechenland
+GUY#Guyana
+H  #Ungarn
+HK #Hongkong
+HN #Honduras
+HR #Kroatien
+I  #Italien
+IL #Israel
+IND#Indien
+IR #Iran
+IRL#Irland
+IRQ#Irak
+IS #Island
+J  #Japan
+JA #Jamaika
+JOR#Jordanien
+K  #Kambodscha
+KIR#Kiribati
+KS #Kirgisistan
+KSA#Königreich Saudi-Arabien
+KWT#Kuwait
+KZ #Kasachstan
+L  #Luxemburg
+LAO#Demokratische Volksrepublik Laos
+LAR#Libyen
+LB #Liberia
+LS #Lesotho
+LT #Litauen
+LV #Lettland
+M  #Malta
+MA #Marokko
+MAL#Malaysia
+MC #Monaco
+MD #Moldau
+MEX#Mexiko
+MGL#Mongolei
+MH #Marshall-Inseln
+MK #Mazedonien
+MOC#Mosambik
+MS #Mauritius
+MV #Malediven
+MW #Malawi
+MYA#Myanmar (Birma)
+N  #Norwegen
+NA #Niederländische Antillen
+NAM#Namibia
+NAU#Nauru
+NEP#Nepal
+NIC#Nicaragua
+NL #Niederlande
+NZ #Neuseeland
+OM #Oman
+P  #Portugal
+PA #Panama
+PE #Peru
+PK #Pakistan
+PL #Polen
+PNG#Papua-Neuguinea
+PY #Paraguay
+Q  #Katar
+RA #Argentinien
+RB #Botsuana
+RC #China (Taiwan)
+RCA#Zentralafrikanische Republik
+RCB#Kongo
+RCH#Chile
+RFC#Kamerun (alt)
+RG #Guinea
+RH #Haiti
+RI #Indonesien
+RIM#Mauretanien
+RL #Libanon
+RM #Madagaskar
+RMM#Mali
+RN #Niger
+RO #Rumänien
+ROK#Korea, Republik
+ROU#Uruguay
+RP #Philippinen
+RSM#San Marino
+RT #Togo
+RU #Burundi
+RUS#Russische Föderation
+RWA#Ruanda
+S  #Schweden
+SD #Swasiland
+SGP#Singapur
+SK #Slowakische Republik
+SLO#Slowenien
+SME#Suriname
+SN #Senegal
+SP #Somalia
+STP#Sao Tome und Principe
+SU #Sowjetunion
+SUD#Sudan
+SY #Seychellen
+SYR#Syrien
+TCH#Tschad
+THA#Thailand
+TJ #Tadschikistan
+TM #Turkmenistan
+TN #Tunesien
+TO #Tonga
+TR #Türkei
+TT #Trinidad und Tobago
+TUV#Tuvalu
+UA #Ukraine
+UAE#Vereinigte Arabische Emirate
+USA#Vereinigte Staaten von Amerika
+UZ #Usbekistan
+V  #Vatikanstadt
+VN #Vietnam
+VU #Vanuatu
+WAG#Gambia
+WAL#Sierra Leone
+WAN#Nigeria
+WD #Dominica
+WG #Grenada
+WL #Santa Lucia
+WS #Samoa (Westsamoa)
+WV #St. Vincent und die Grenadinen
+YAR#Jemen
+YU #Jugoslawien (Serbien, Montenegro)
+YV #Venezuela
+Z  #Sambia
+ZA #Südafrika
+ZRE#Zaire
+ZW #Simbabwe

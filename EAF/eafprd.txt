@@ -1,0 +1,5 @@
+A#Auftragsproduktion
+E#Eigenproduktion
+F#Fremdproduktion
+G#Gemischte Herkunft
+K#Koproduktion

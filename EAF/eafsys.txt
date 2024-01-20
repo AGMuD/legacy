@@ -1,0 +1,1620 @@
+020        #Arbeitslehre
+02001      # Hinführung zur Arbeitswelt
+0200101    #  Arbeitsbedingungen, Arbeitsabläufe
+0200102    #  Arbeitswert
+0200103    #  Arbeitssicherheit
+0200104    #  Recht im Betrieb
+0200105    #  Unternehmensformen, Unternehmensstrukturen
+0200106    #  Strukturwandel, Rationalisierung, Humanisierung
+0200107    #  Gesellschaftliche Bedingungen
+0200108    #  Geschichte von Arbeit und Technik
+02002      # Berufskunde
+0200201    #  Berufswahlkriterien
+0200202    #  Berufsbilder
+020020201  #   Berufe im naturwissenschaftlich-technischen Bereich
+02002020101#    Metallberufe
+02002020102#    Elektroberufe
+02002020103#    Berufsbereiche Bau, Bergbau, Steine
+02002020104#    Berufsbereiche Textil, Bekleidung, Leder
+02002020105#    Berufsbereiche Druck und Papier
+02002020106#    Berufsbereich Holz und Kunststoff
+02002020107#    Berufsbereiche Chemie, Glas, Keramik
+020020202  #   Berufe im medizinischen Bereich
+020020203  #   Berufe im sozialen Bereich
+020020204  #   Berufe im hauswirtschaftlichen Bereich
+020020205  #   Berufe im pädagogischen Bereich
+020020206  #   Berufe im kaufmännischen Bereich
+020020207  #   Berufe in der Datenverarbeitung
+020020208  #   Berufe im Behördendienst
+020020209  #   Berufe im Verkehrswesen
+020020210  #   Berufe bei der Bundeswehr
+020020211  #   Berufe im künstlerischen und gestalterischen Bereich
+020020212  #   Berufe im journalistischen und Medienbereich
+020020213  #   Handwerksberufe
+020020214  #   Berufe in der Land- und Forstwirtschaft
+020020215  #   Berufe im Nahrungs- Hotel- und Gaststättenbereich
+0200203    #  Wandel von Berufen
+0200204    #  Berufsweg, Fort- und Weiterbildung
+040        #Berufliche Bildung
+04001      # Gartenbau und Landwirtschaft, Natur und Umwelt
+0400101    #  Pflanzliche Produktion
+040010101  #   Acker- und Pflanzenbau
+040010102  #   Pflanzenzüchtung
+040010103  #   Pflanzenernährung
+040010104  #   Pflanzenschutz
+040010105  #   Grünland
+040010106  #   Sonderkulturen
+0400102    #  Bodenkunde und Kulturtechnik
+0400103    #  Tierische Produktion
+040010301  #   Tierzucht und Tierhaltung, Tierpflege
+04001030101#    Geflügel
+04001030102#    Pferde
+04001030103#    Rinder
+04001030104#    Schafe
+04001030105#    Schweine
+04001030106#    Fische
+04001030107#    Allgemein
+040010302  #   Tierernährung
+0400104    #  Landtechnik
+0400105    #  Betriebswirtschaftslehre
+0400106    #  Agrarpolitik
+0400108    #  Umweltschutz und Naturschutz
+0400109    #  Forstwirtschaft
+040010901  #   Jagd
+040010902  #   Forst
+0400110    #  Gartenbau, Floristik
+0400112    #  Agrargeschichte
+04002      # Bau, Architektur, Vermessung
+0400201    #  Tiefbau
+040020101  #   Eisenbahnbau
+040020102  #   Erdbau
+040020103  #   Grundbau
+040020104  #   Kanalbau
+040020105  #   Straßen- und Wegebau
+040020106  #   Tunnelbau
+040020107  #   Wasserbau
+0400202    #  Hochbau
+040020201  #   Betonbau
+040020202  #   Dachbau
+040020203  #   Fassadenbau
+040020204  #   Mauerwerksbau
+040020205  #   Stahlbau
+040020206  #   Stahlbetonbau
+0400203    #  Ausbau
+040020301  #   Bodenbeläge
+040020302  #   Dämmung, Isolierung
+040020303  #   Elektroinstallationen
+040020304  #   Estricharbeiten
+040020305  #   Haustechnik/Gebäudetechnik
+040020306  #   Holzbau
+040020307  #   Metallbau
+040020308  #   Putzarbeiten
+0400204    #  Baubetrieb
+0400205    #  Architektur, Bautechnik
+0400206    #  Vermessung
+0400207    #  Baugrundlagen
+0400208    #  Baupraktische Anwendungen
+0400209    #  Bauschäden
+0400210    #  Baustoffe
+04003      # Naturwissenschaften und Mathematik
+0400301    #  Labor
+0400302    #  Produktionstechnik
+0400303    #  Chemie
+0400304    #  Geowissenschaften
+040030401  #   Kartographie
+040030402  #   Meteorologie
+0400305    #  Mathematik und Statistik
+0400306    #  Pharmazie
+04004      # IT- und Medientechnik
+0400401    #  Archiv, Bibliothek, Dokumentation
+0400402    #  Druck und Medien
+040040201  #   Medientechnologie
+04004020101#    Druck
+04004020102#    Papier
+04004020103#    Schrift
+040040202  #   Mediengestaltung
+0400403    #  Film, Funk und Fernsehen
+0400404    #  Foto
+0400405    #  Verlagswesen
+0400406    #  IT, Computer
+040040601  #   Hard- und Softwareentwicklung
+040040602  #   Administration
+040040603  #   Kundenbetreuung
+04005      # Elektrotechnik
+0400501    #  Aufgabenbereiche
+040050101  #   Energietechnik
+040050102  #   Antriebstechnik
+040050103  #   Nachrichtentechnik
+040050104  #   Elektronik
+040050105  #   Mechatronik, Automatisierungstechnik
+040050106  #   Elektronische Gerätetechnik
+040050107  #   Haustechnik/Gebäudetechnik
+040050108  #   Theoretische Elektrotechnik
+0400502    #  Methoden
+040050201  #   Grundlagen
+040050202  #   Mess- und Regelungstechnik
+040050203  #   Praktische Informatik
+040050204  #   Schaltungstechnik und Funktionsanalyse
+040050205  #   Werkstoffe
+040050206  #   Technische Kommunikation
+04006      # Gastgewerbe und Hauswirtschaft
+0400601    #  Gastronomie
+040060101  #   Service
+040060102  #   Küche
+040060103  #   Housekeeping
+040060104  #   Verwaltung
+040060105  #   Rezeption
+040060106  #   Sonstige Bereiche
+0400602    #  Hauswirtschaft
+040060201  #   Ernährungslehre
+040060202  #   Lebensmittellehre
+040060203  #   Servierkunde
+040060204  #   Verkaufskunde
+040060205  #   Sozioökonomie
+040060206  #   Haushaltstechnik
+040060207  #   Wohnökologie
+040060208  #   Textilgestaltung
+040060209  #   Gesundheitslehre
+040060210  #   Erziehungslehre
+040060211  #   Hausgarten
+04007      # Farbtechnik und Raumgestaltung
+0400701    #  Farbtechnik
+040070101  #   Optik, Farbenlehre
+040070102  #   Untergründe
+040070103  #   Beschichtungstechniken
+040070104  #   Mit Farbe gestalten
+0400702    #  Raumgestaltung
+040070201  #   Raumgestaltung
+040070202  #   Flächengestaltung
+040070203  #   Wandgestaltung
+040070204  #   Bodengestaltung
+040070205  #   Dekoration
+04008      # Gesundheit und Pflege
+0400801    #  Medizinische Grundlagen
+0400802    #  Gesunderhaltung
+0400803    #  Vorbeugung
+0400804    #  Erste Hilfe
+0400805    #  Therapie
+0400806    #  Rehabilitation
+0400807    #  Ernährung
+0400808    #  Pflege
+040080801  #   Altenpflege
+040080802  #   Gesundheits- und Krankenpflege
+040080803  #   Entbindungspflege
+040080804  #   Heilerziehungspflege
+040080805  #   Kinderpflege
+04009      # Holztechnik
+0400901    #  Holzbearbeitung
+0400902    #  Holzverarbeitung
+0400903    #  Grundlagen der Holztechnik
+0400904    #  Technische Kommunikation
+0400905    #  Holzschäden
+0400906    #  Werkstoffe
+04010      # Fahrzeugtechnik, Mechatronik
+0401001    #  Motortechnik
+0401002    #  Kraft- und Bewegungsübertragung
+0401003    #  Fahrwerk- und Bremstechnik
+0401004    #  Steuerungs- und Regelungstechnik
+0401005    #  Karosserietechnik
+0401006    #  Installationstechnik
+04011      # Metalltechnik
+0401101    #  Technische Mechanik
+0401102    #  Konstruktionstechnik, Maschinenelemente
+040110201  #   Maschinenelemente
+040110202  #   Kraftmaschinen, Arbeitsmaschinen
+0401103    #  Werkstofftechnik
+040110301  #   Rohstoffe
+040110302  #   Werkstoffe
+040110303  #   Korrosion
+0401104    #  Produktionstechnik
+040110401  #   Fertigungstechnik
+04011040101#    Urformen
+04011040102#    Umformen
+04011040103#    Trennen
+04011040104#    Fügen
+04011040105#    Stoffeigenschaften ändern
+04011040106#    Galvanik und Oberflächenbearbeitung
+040110402  #   Verfahrenstechnik
+0401105    #  Prüftechnik
+040110501  #   Mess- und Prüftechnik
+040110502  #   Werkstoffprüfung
+0401106    #  Thermodynamik
+0401107    #  Steuerungs- und Regeltechnik
+0401108    #  Besondere metallische Gebiete
+0401109    #  Technische Kommunikation
+0401110    #  Arbeitswissenschaft
+04012      # Textiltechnik und Bekleidung
+0401201    #  Textilrohstoffe
+0401202    #  Textilherstellung
+0401203    #  Textilmaschinen
+0401204    #  Textilveredlung und -verzierung
+0401205    #  Textilverarbeitung
+0401206    #  Leder
+0401207    #  Textilpflege
+04013      # Wirtschaft und Verwaltung
+0401301    #  Betriebswirtschaft
+040130101  #   Beschaffung
+040130102  #   Produktion
+040130103  #   Absatz
+040130104  #   Organisation
+040130105  #   Personalwesen
+040130106  #   Rechnungswesen
+040130107  #   Finanzbereich
+040130108  #   EDV
+040130109  #   Spezielle Betriebsarten
+0401302    #  Volkswirtschaft
+040130201  #   Grundlagen
+040130202  #   Volkswirtschaftliche Gesamtrechnung
+040130203  #   Markt und Preis
+040130204  #   Geld
+040130205  #   Wirtschaftspolitik
+040130206  #   Wirtschaftsformen
+040130207  #   Wirtschaftsgeographie
+040130208  #   Wirtschafts- und Sozialgeschichte
+0401303    #  Recht und öffentliche Verwaltung
+040130301  #   Finanzwesen, Steuerwesen
+040130302  #   Öffentliche Ordnung
+040130303  #   Verkehrswesen
+040130304  #   Bauwesen
+040130305  #   Sozialwesen
+0401304    #  Informationswirtschaft
+040130401  #   Wirtschaftsinformation
+040130402  #   Textverarbeitung
+040130403  #   Bürowirtschaft
+0401305    #  Marketing, Werbung
+0401306    #  Beratung, Verkauf
+04014      # Arbeitssicherheit
+04015      # Sozialarbeit und Erziehung
+0401501    #  Erziehung, Aus- und Weiterbildung
+0401502    #  Gesundheit- und Sozialmanagement
+0401503    #  Sozialarbeit, Sozialpflege
+04016      # Verkehr und Logistik
+0401601    #  Seefahrt
+0401602    #  Auto- und Straßenverkehr
+0401603    #  Bahn- und Schienenverkehr
+0401604    #  Flugzeug und Luftfahrt
+0401605    #  Transport und Logistik
+04017      # Klima-, Heizungs- und Sanitärtechnik
+0401701    #  Wassertechnik
+0401702    #  Lüftungstechnik
+0401703    #  Wärmetechnik
+0401704    #  Ressourcenschonende Techniken
+04018      # Dienstleistung
+0401801    #  Messe- und Veranstaltungsmanagement
+0401802    #  Veranstaltungstechnik
+0401803    #  Callcenter
+0401804    #  Körperpflege
+040180401  #   Friseurtechnik
+040180402  #   Kosmetik
+0401805    #  Ver- und Entsorgung
+0401806    #  Fremdsprachen
+0401807    #  Bestattungswesen
+0401808    #  Schutz und Sicherheit
+0401809    #  Sauberkeit und Hygiene
+0401810    #  Tourismus und Freizeitwirtschaft
+04019      # Lebensmittel
+0401901    #  Lebensmitteltechnik
+0401902    #  Lebensmittelproduktion
+0401903    #  Lebensmittellehre
+040190301  #   Nahrungsmittel
+040190302  #   Genussmittel
+040190303  #   Lebensmittelzubereitung
+040190304  #   Haltbarmachung
+040190305  #   Vorratshaltung
+040190306  #   Lebensmittelhygiene
+040190307  #   Lebensmittelrecht
+04020      # Kunst, Kultur, Gestaltung
+0402001    #  Musik
+0402002    #  Schmuck
+0402003    #  Kunsthandwerk
+0402004    #  Museen, Restaurierung, Denkmalschutz
+0402005    #  Design, Gestaltung
+0402006    #  Bühne, Theater
+060        #Bildende Kunst
+06001      # Grundlagen künstlerischen Schaffens
+0600101    #  Form, Komposition, Perspektive
+0600102    #  Farblehre, Licht
+0600103    #  Techniken, Werkstoffe
+0600104    #  Anwendungsbeispiele
+06002      # Theorien zur Kunst
+06003      # Kunstgeschichte
+0600301    #  Vor- und frühgeschichtliche Kulturen
+0600302    #  Frühe Hochkulturen
+0600303    #  Klassisches Altertum
+0600304    #  Frühchristliche und byzantinische Kunst
+0600305    #  Kunst des Mittelalters
+0600306    #  Renaissance
+0600307    #  Barock, Rokoko
+0600308    #  Klassizismus
+0600309    #  19. Jahrhundert
+060030901  #   Romantik
+060030902  #   Realismus
+060030903  #   Impressionismus
+060030904  #   Weitere Stilrichtungen des 19. Jahrhunderts
+0600310    #  Kunst der Jahrhundertwende
+0600311    #  20./21. Jahrhundert
+060031101  #   Kunst bis 1945
+060031102  #   Kunst bis 1980
+060031103  #   Kunst der Gegenwart
+0600312    #  Kunstgeschichtliche Überblicksdarstellungen
+0600313    #  Museen, Galerien
+0600314    #  Biographien
+06004      # Angewandte Kunst der Gegenwart
+0600401    #   Architektur und Landschaftsgestaltung
+0600402    #   Produktgestaltung, Design
+0600403    #   Werbung
+06005      # Erhalten und Restaurieren
+06080      # Bilingualer Unterricht
+080        #Biologie
+08001      # Allgemeine Biologie
+0800101    #  Biologische Forschung, biologische Arbeitsmethoden
+0800102    #  Genetik
+0800103    #  Evolution
+0800104    #  Biochemie
+0800105    #  Biologische Regelkreise, Kybernetik
+0800106    #  Biophysik, Bionik
+0800107    #  Zellenlehre
+08002      # Mikroorganismen
+0800201    #  Bakterien
+0800202    #  Viren und Phagen
+0800203    #  Pflanzliche und tierische Einzeller
+08003      # Pilze
+08004      # Botanik
+0800401    #  Allgemeine Botanik
+0800402    #  Angewandte Botanik
+0800403    #  Blütenpflanzen
+080040301  #   Bäume, Sträucher
+080040302  #   Kräuter und Gräser
+0800404    #  Blütenlose Pflanzen
+08005      # Zoologie
+0800501    #  Allgemeine Zoologie
+080050101  #   Gestalt und Bau
+080050102  #   Fortpflanzung und Entwicklung
+080050103  #   Stoffwechsel
+080050104  #   Verhalten
+0800502    #  Angewandte Zoologie
+0800503    #  Wirbellose
+080050301  #   Gliederfüßer
+080050302  #   Stachelhäuter
+080050303  #   Weichtiere
+080050304  #   Platt-, Rund- und Ringelwürmer
+080050305  #   Hohltiere, Schwämme
+0800504    #  Wirbeltiere
+080050401  #   Fische
+080050402  #   Lurche
+080050403  #   Kriechtiere
+080050404  #   Vögel
+080050405  #   Säugetiere
+08005040501#    Haustiere, Nutztiere
+08005040502#    Wild lebende Tiere
+08006      # Menschenkunde
+0800601    #  Körperbau
+0800602    #  Stoffwechsel, Innere Organe
+0800603    #  Sinnesorgane, Nervensystem
+0800604    #  Fortpflanzung und Entwicklung
+0800605    #  Genetik, Evolution
+0800606    #  Krankheiten und Vorbeugung
+0800607    #  Verhalten
+08007      # Ökologie
+0800701    #  Ökologische Grundlagen
+0800702    #  Stoffkreisläufe
+0800703    #  Ökosysteme
+0800704    #  Biodiversität, Artenvielfalt
+08008      # Biographien
+08080      # Bilingualer Unterricht
+100        #Chemie
+10001      # Geschichte der Chemie
+10002      # Allgemeine Chemie
+1000201    #  Gesetzmäßigkeiten chemischer Reaktionen
+1000202    #  Chemisches Gleichgewicht und seine Beeinflussung
+1000203    #  Kernchemie, Radiochemie
+1000204    #  Arbeitsmethoden, Untersuchungsmethoden
+10003      # Physikalische Chemie
+1000301    #  Atombau, Periodensystem
+1000302    #  Bindung, Struktur, Eigenschaften
+1000303    #  Chemische Thermodynamik
+1000304    #  Chemische Kinetik
+1000305    #  Elektrochemie
+10004      # Anorganische Chemie
+1000401    #  Stoffgemische
+1000402    #  Elemente
+1000403    #  Verbindungen
+1000404    #  Redoxreaktionen
+1000405    #  Säure-Base-Reaktionen
+1000406    #  Komplexchemie
+10005      # Organische Chemie
+1000501    #  Kohlenwasserstoffe
+1000502    #  Stoffe mit funktionellen Gruppen
+1000503    #  Polymere Stoffe, Naturstoffe
+1000504    #  Reaktionsmechanismen
+10006      # Biochemie
+1000601    #  Molekulare Grundlagen der Organismen
+1000602    #  Stoffwechselvorgänge
+1000603    #  Physiologische Wirkungsweise chemischer Substanzen
+10007      # Angewandte Chemie
+1000701    #  Technische Chemie
+1000702    #  Chemie in Alltag und Umwelt
+10008      # Biographien
+10080      # Bilingualer Unterricht
+120        #Deutsch
+12001      # Literatur
+1200101    #  Epik
+120010101  #   Lesung
+120010102  #   Adaption als Verfilmung
+12001010201#    Märchen, Sagen
+12001010202#    Romane, Novellen, Erzählungen
+120010103  #   Adaption als Hörspiel
+120010104  #   Adaption in anderer Form
+1200102    #  Dramatik
+120010201  #   Lesung
+120010202  #   Adaption als Verfilmung
+120010203  #   Aufzeichnung einer Inszenierung
+120010204  #   Arbeit an einer Inszenierung
+120010205  #   Hörspiel, Hörbild
+1200103    #  Lyrik
+1200104    #  Literaturtheorie
+1200105    #  Literaturgeschichte
+120010501  #   Antike
+120010502  #   Mittelalter
+120010503  #   16. - 18. Jahrhundert
+120010504  #   19. Jahrhundert
+120010505  #   20. Jahrhundert
+120010506  #   21. Jahrhundert
+120010507  #   Biographien
+120010508  #   Überblicksdarstellungen
+1200106    #  Literatursoziologie
+1200107    #  Kinder- und Jugendliteratur
+1200108    #  Comics, Cartoons
+12002      # Darstellendes Spiel, Schultheater
+12003      # Nichtliterarische Texte
+12004      # Kommunikation
+1200401    #  Kommunikationstheorie, Probleme der Kommunikation
+1200402    #  Sprachgeschichte, Sprachentwicklung
+1200403    #  Kommunikationsanregung
+12005      # Deutsch als Zweit- und Fremdsprache
+1200501    #  Sprachliche Fertigkeiten
+120050101  #   Szenarien- bzw. dialogbezogene Ordnung 
+12005010101#    Einwirkende Interaktion  
+12005010102#    Informationsaustausch  
+12005010103#    Meinungsaustausch  
+12005010104#    Soziale Kontakte  
+120050102  #   Fertigkeitsbezogene Ordnung
+12005010201#    Alphabetisierung
+12005010202#    Seh-/Hörverstehen und Hörverstehen
+12005010203#    Interkulturelles Verstehen
+12005010204#    Leseverstehen
+12005010205#    Schreiben
+12005010206#    Sprechen
+12005010207#    Übersetzen
+12005010208#    Grammatik / Systematisierung
+120050103  #   Fachsprachliche Vertiefungen
+12005010301#    Handwerk
+12005010302#    Medizin und Pflege
+12005010303#    Naturwissenschaft und Technik
+12005010304#    Recht
+12005010305#    Wirtschaft
+1200502    #  Landeskunde Deutschland
+12006      # Grammatik, Rechtschreiben
+12007      # Lesen, Lesetechnik, Umgang mit Texten
+140        #Elementarbereich, Vorschulerziehung
+14001      # Märchen und Geschichten
+14002      # Lebensbereiche
+1400201    #  Familie, Nachbarschaft, Freunde
+1400202    #  Gesundheit
+1400203    #  Natur
+1400204    #  Öffentliche Einrichtungen/Dienstleistungen
+1400205    #  Berufe
+14003      # Soziales Verhalten
+14004      # Mathematik, Technik, Naturwissenschaften
+14005      # Religion, Ethik
+14006      # Fremdsprachen
+14007      # Musizieren, Singen, Tanzen
+14008      # Malen, Basteln
+14009      # Unsere Erde entdecken
+14010      # Verkehrserziehung
+14011      # Sprachförderung
+14012      # Bewegungserziehung, Motorik
+14013      # Körperwahrnehmung, Sexualerziehung
+14014      # Medienerziehung
+160        #Ethik
+16001      # Konflikte und Konfliktregelung
+1600101    #  Familiäre Konflikte
+1600102    #  Außerfamiliäre Konflikte
+1600103    #  Gesellschaftliche Konflikte
+16002      # Soziale Bindungen
+16003      # Werte und Normen
+16005      # Anthropologie
+16006      # Religionen, Weltanschauungen
+16080      # Bilingualer Unterricht
+180        #Freizeit
+18001      # Freizeitbetätigung, Hobby
+18002      # Freizeitsport
+18003      # Reisen
+18004      # Familie, Gemeinschaft, Verein
+200        #Fremdsprachen
+20001      # Englisch
+2000101    #  Sprachliche Fertigkeiten
+2000102    #  Landeskunde
+200010201  #   Großbritannien, Irland
+200010202  #   Nordamerika (USA, Kanada)
+200010203  #   Australien, Neuseeland
+200010209  #   Andere englischsprachige Länder
+2000103    #  Literatur, Medien
+200010301  #   Literatur/Medien Großbritanniens und Irlands
+200010302  #   Literatur/Medien Nordamerikas
+200010303  #   Literatur/Medien anderer englischsprachiger Länder
+2000104    #  Spielfilm
+2000105    #  Bilingualer Unterricht
+20002      # Französisch
+2000201    #  Sprachliche Fertigkeiten
+2000202    #  Landeskunde
+2000203    #  Literatur, Medien
+2000204    #  Spielfilm
+2000205    #  Bilingualer Unterricht
+20003      # Griechisch
+2000301    #  Sprachliche Fertigkeiten
+2000302    #  Landeskunde
+2000303    #  Literatur, Medien
+2000304    #  Spielfilm
+2000305    #  Bilingualer Unterricht
+20004      # Italienisch
+2000401    #  Sprachliche Fertigkeiten
+2000402    #  Landeskunde
+2000403    #  Literatur, Medien
+2000404    #  Spielfilm
+2000405    #  Bilingualer Unterricht
+20005      # Latein
+2000501    #  Sprachliche Fertigkeiten
+2000502    #  Landeskunde
+2000503    #  Literatur, Medien
+2000504    #  Spielfilm
+2000505    #  Bilingualer Unterricht
+20006      # Russisch
+2000601    #  Sprachliche Fertigkeiten
+2000602    #  Landeskunde
+2000603    #  Literatur, Medien
+2000604    #  Spielfilm
+2000605    #  Bilingualer Unterricht
+20007      # Spanisch
+2000701    #  Sprachliche Fertigkeiten
+2000702    #  Landeskunde
+2000703    #  Literatur, Medien
+2000704    #  Spielfilm
+2000705    #  Bilingualer Unterricht
+20008      # Türkisch
+2000801    #  Sprachliche Fertigkeiten
+2000802    #  Landeskunde
+2000803    #  Literatur, Medien
+2000804    #  Spielfilm
+2000805    #  Bilingualer Unterricht
+20009      # Sorbisch
+2000901    #  Sprachliche Fertigkeiten
+2000902    #  Landeskunde
+2000903    #  Literatur, Medien
+2000904    #  Spielfilm
+2000905    #  Bilingualer Unterricht
+20010      # Dänisch
+2001001    #  Sprachliche Fertigkeiten
+2001002    #  Landeskunde
+2001003    #  Literatur, Medien
+2001004    #  Spielfilm
+2001005    #  Bilingualer Unterricht
+20011      # Polnisch
+2001101    #  Sprachliche Fertigkeiten
+2001102    #  Landeskunde
+2001103    #  Literatur, Medien
+2001104    #  Spielfilm
+2001105    #  Bilingualer Unterricht
+20012      # Tschechisch
+2001201    #  Sprachliche Fertigkeiten
+2001202    #  Landeskunde
+2001203    #  Literatur, Medien
+2001204    #  Spielfilm
+2001205    #  Bilingualer Unterricht
+20013      # Niederländisch
+2001301    #  Sprachliche Fertigkeiten
+2001302    #  Landeskunde
+2001303    #  Literatur, Medien
+2001304    #  Spielfilm
+2001305    #  Bilingualer Unterricht
+20014      # Portugiesisch
+2001401    #  Sprachliche Fertigkeiten
+2001402    #  Landeskunde
+2001403    #  Literatur, Medien
+2001404    #  Spielfilm
+2001405    #  Bilingualer Unterricht
+20040      # Weitere europäische Fremdsprachen
+20041      # Chinesisch
+2004101    #  Sprachliche Fertigkeiten
+2004102    #  Landeskunde
+2004103    #  Literatur, Medien
+2004104    #  Spielfilm
+2004105    #  Bilingualer Unterricht
+20042      # Japanisch
+2004201    #  Sprachliche Fertigkeiten
+2004202    #  Landeskunde
+2004203    #  Literatur, Medien
+2004204    #  Spielfilm
+2004205    #  Bilingualer Unterricht
+20070      # Weitere außereuropäische Fremdsprachen
+20080      # Esperanto
+220        #Geographie
+22001      # Geographische Arbeitsmethoden und Darstellungen
+22002      # Erde
+2200201    #  Erde als Himmelskörper, Astronomie
+2200202    #  Orientierung
+2200203    #  Entdecken und Erforschen
+22003      # Geologie
+2200301    #  Erdgeschichte
+2200302    #  Tektonik, Vulkanismus
+22004      # Geomorphologie
+2200401    #  Erdgestaltende Kräfte
+2200402    #  Oberflächenformen
+22005      # Hydrographie
+2200501    #  Meer
+2200502    #  Binnengewässer
+22006      # Klimageographie
+2200601    #  Wetter
+2200602    #  Klima
+22007      # Biogeographie
+2200701    #  Tiergeographie
+2200702    #  Vegetationsgeographie
+22008      # Geoökologie
+2200801    #  Ökosystem
+2200802    #  Umweltprobleme
+22009      # Sozialgeographie
+2200901    #  Sozialstrukturen
+2200902    #  Daseinsgrundfunktionen
+22010      # Bevölkerungsgeographie
+2201001    #  Bevölkerungsstruktur
+2201002    #  Bevölkerungswanderung
+22011      # Siedlungsgeographie
+2201101    #  Ländliche Siedlungen und Prozesse
+2201102    #  Städtische Strukturen und Prozesse
+22012      # Politische Geographie
+2201201    #  Staat, Gemeinde
+2201202    #  Internationale Beziehungen
+2201203    #  Raumordnung
+22013      # Wirtschaftsgeographie
+2201301    #  Wirtschaftsstrukturen, Wirtschaftssysteme, Wirtschaftsformen
+2201302    #  Wirtschaftsräume
+2201303    #  Handel, Versorgung
+2201304    #  Waldwirtschaft
+2201305    #  Fischwirtschaft, Fischereiwirtschaft
+2201306    #  Wasserwirtschaft
+22014      # Agrargeographie
+2201401    #  Agrarstrukturen
+2201402    #  Betriebsstrukturen
+2201403    #  Boden, Melioration
+2201404    #  Agrarprodukte
+2201405    #  Agrarräume
+22015      # Industriegeographie
+2201501    #  Rohstoffe und Verarbeitung
+2201502    #  Standorte
+2201503    #  Energiewirtschaft
+22016      # Verkehrsgeographie
+2201601    #  Verkehrswege, Transportmittel
+2201602    #  Verkehrsknoten, Transportverbund
+22017      # Fremdenverkehrsgeographie
+22018      # Bundesrepublik Deutschland
+2201801    #  Nordsee, Ostsee und Küsten
+2201802    #  Norddeutsches Tiefland
+2201803    #  Mittelgebirgsschwelle
+2201804    #  Süddeutsches Stufen- und Bergland
+2201805    #  Alpen und Alpenvorland
+2201898    #  Allgemeines
+22019      # Europa
+2201901    #  Nordeuropa
+2201902    #  Westeuropa
+2201903    #  Alpenländer
+2201904    #  Osteuropa und Ostmitteleuropa
+2201905    #  Südeuropa und Südosteuropa
+2201998    #  Allgemeines
+22020      # Asien
+2202001    #  Vorderasien
+2202002    #  Nordasien, Mittelasien
+2202003    #  Südasien
+2202004    #  Südostasien
+2202005    #  Ostasien
+2202098    #  Allgemeines
+22021      # Australien und Ozeanien
+2202101    #  Australien
+2202102    #  Übrige Gebiete
+2202198    #  Allgemeines
+22022      # Afrika
+2202201    #  Nordafrika
+2202202    #  Westafrika
+2202203    #  Zentralafrika
+2202204    #  Ostafrika
+2202205    #  Südafrika
+2202298    #  Allgemeines
+22023      # Amerika
+2202301    #  Grönland, Kanada
+2202302    #  USA
+2202303    #  Mittelamerika
+2202304    #  Andenländer
+2202305    #  Östliches Südamerika
+2202398    #  Allgemeines
+22024      # Pole und Meere
+2202401    #  Polargebiete
+2202402    #  Ozeane, Inseln
+22080      # Bilingualer Unterricht
+240        #Geschichte
+24001      # Quellenkunde
+24002      # Epochen
+2400201    #  Vor- und Frühgeschichte
+2400202    #  Alte Geschichte
+240020201  #   Frühe Hochkulturen
+240020202  #   Griechische Geschichte
+240020203  #   Römische Geschichte, etruskische Geschichte
+240020204  #   Völkerwanderung, germanische Geschichte
+2400203    #  Mittelalterliche Geschichte
+240020301  #   Kaiser, Kirche, Reich
+240020302  #   Wirtschaft und Gesellschaft
+240020303  #   Kultur
+240020304  #   Kriege, Kreuzzüge, Normannen
+240020305  #   Islam, Judentum
+240020306  #   Außereuropäische Geschichte
+2400204    #  Neuere Geschichte
+240020401  #   Zeitalter der Entdeckungen, Eroberungen und Erfindungen
+240020402  #   Humanismus und Renaissance
+240020403  #   Reformation, Bauernkriege, Glaubenskämpfe
+240020404  #   Absolutismus, Aufklärung, Parlamentarismus
+240020405  #   Bürgerliche Revolutionen des 18. Jahrhunderts
+240020406  #   Napoleon, Napoleonisches Zeitalter
+240020407  #   Restauration, Revolutionen des 19. Jahrhunderts
+240020408  #   Industrialisierung und soziale Frage
+240020409  #   Nationale Bewegungen und Deutsches Kaiserreich
+240020410  #   Imperialismus und Erster Weltkrieg
+240020411  #   Weimarer Republik
+240020412  #   Faschismus und Nationalsozialismus
+24002041201#    Politische und gesellschaftliche Entwicklung
+24002041202#    Verfolgung
+24002041203#    Widerstand
+240020413  #   Zweiter Weltkrieg
+240020414  #   Weitere Themen der neueren europäischen Geschichte
+240020415  #   Neuere Geschichte außereuropäischer Staaten und Völker
+2400205    #  Geschichte von 1945 bis 1990
+240020501  #   Deutschland
+24002050101#    Alliierte Besatzung 1945 - 1949
+24002050102#    Deutsche Demokratische Republik 1949 - 1990
+24002050103#    Bundesrepublik Deutschland 1949 - 1990
+240020502  #   Osteuropäische Länder
+240020503  #   Westeuropäische Länder
+240020504  #   Außereuropäische Staaten und Völker
+240020505  #   Internationale Entwicklungen
+2400206    #  Neueste Geschichte seit 1990
+240020601  #   Bundesrepublik Deutschland
+240020602  #   Europa
+240020603  #   Außereuropäische Staaten und Völker
+240020604  #   Internationale Entwicklungen
+24003      # Landes- und Regionalgeschichte
+2400301    #  Landesgeschichte
+2400302    #  Regionalgeschichte, Lokalgeschichte
+24004      # Geschichtliche Überblicke und thematische Querschnitte
+2400401    #  Alltag
+2400402    #  Arbeit, Handwerk
+2400403    #  Bildung und Wissenschaft
+2400404    #  Formen der Weltauffassung, Religion
+2400405    #  Gesellschaft
+2400406    #  Staat, Herrschaftsformen
+2400407    #  Kriegs- und Wehrwesen
+2400408    #  Kultur
+2400409    #  Recht
+2400410    #  Siedlungsformen
+2400411    #  Technik, Verkehr
+2400412    #  Wirtschaft
+2400413    #  Allgemeine Längs- und Querschnitte
+24005      # Biographien
+24080      # Bilingualer Unterricht
+260        #Gesundheit
+26001      # Gesunderhaltung
+2600101    #  Ernährung
+2600102    #  Zahnpflege
+2600103    #  Körperpflege
+2600104    #  Bewegung
+2600105    #  Regeneration
+2600106    #  Krankheitsvorsorge und Früherkennung
+26002      # Krankheit
+26003      # Behinderung
+26004      # Psychologie/Psychiatrie
+26005      # Medizinische Versorgung
+280        #Grundschule
+28001      # Deutsch
+2800101    #  Anlässe zum Sprechen, Lesen, Schreiben
+2800102    #  Literatur
+280010201  #   Märchen, Sagen
+280010202  #   Übrige Kinder- und Jugendliteratur
+2800103    #  Sprachlehre, Rechtschreibung
+2800104    #  Lesen, Lesetechnik, Umgang mit Texten
+28002      # Deutsch für Kinder anderer Muttersprache
+2800201    #  Szenarien- bzw. dialogbezogene Ordnung
+280020101  #   Einwirkende Interaktion
+280020102  #   Informationsaustausch
+280020103  #   Meinungsaustausch
+280020104  #   Soziale Kontakte
+2800202    #  Fertigkeitsbezogene Ordnung
+280020201  #   Alphabetisierung
+280020202  #   Seh-/Hörverstehen und Hörverstehen
+280020203  #   Interkulturelles Verstehen
+280020204  #   Leseverstehen
+280020205  #   Schreiben
+280020206  #   Sprechen
+280020207  #   Übersetzen
+280020208  #   Grammatik / Systematisierung
+28003      # Medienerziehung
+28004      # Ethik
+28005      # Fremdsprachen
+2800501    #  Englisch
+2800502    #  Französisch
+2800503    #  Italienisch
+2800504    #  Türkisch
+2800505    #  Sorbisch
+2800506    #  Polnisch
+2800507    #  Russisch
+2800508    #  Spanisch
+2800509    #  Tschechisch
+2800520    #  Weitere Fremdsprachen
+28006      # Kunst, Werken, Textiles Gestalten
+28007      # Mathematik
+2800701    #  Zahlen, Grundrechenarten
+2800702    #  Messen und Größen
+2800703    #  Raum und Ebenen
+2800704    #  Daten und Zufall
+28008      # Musik
+2800801    #  Singen, Musizieren
+2800802    #  Tanzen
+28009      # Religion
+2800901    #  Bibel
+2800902    #  Kirchenjahr
+2800903    #  Glaube, Ethik
+2800904    #  Vorbilder, Heilige
+2800905    #  Christliche und nichtchristliche Religionen
+28010      # Sachkunde
+2801001    #  Soziales Lernen
+280100101  #   Einstellungsänderung
+280100102  #   Erhalten und Verändern
+280100103  #   Kommunikatives Handeln, Kreativität
+280100104  #   Lernen in Situationen
+280100105  #   Rechte und Pflichten
+280100106  #   Rollen, Interessen, Konflikte
+280100107  #   Sensibilisierung
+2801002    #  Ausländische Arbeitnehmer und ihre Familien
+2801003    #  Behinderte
+2801004    #  Familie
+2801005    #  Schule
+2801006    #  Wohnen
+2801007    #  Grunderfahrungen aus Naturwissenschaft und Technik
+2801008    #  Konsum
+2801009    #  Freizeit
+2801010    #  Öffentliche Einrichtungen und Aufgaben
+2801011    #  Arbeit
+280101101  #   Landwirtschaft
+280101102  #   Handwerk
+280101103  #   Industrie
+280101104  #   Dienstleistungen
+2801012    #  Verkehrserziehung
+2801013    #  Umwelterziehung
+280101301  #   Wasser und Abwasser
+280101302  #   Landschaftsschutz, Landschaftspflege
+280101303  #   Luftverschmutzung, Luftreinhaltung
+280101304  #   Müllanfall, Müllbeseitigung, Recycling
+280101305  #   Lärm
+2801014    #  Wetter
+2801015    #  Pflanzen
+280101501  #   Anpassung, Bau, Pflege
+280101502  #   Entwicklung, Wachstum, Vermehrung
+2801016    #  Tiere
+280101601  #   Haustiere, Nutztiere
+28010160101#    Tiermonographie
+28010160102#    Haltung und Pflege
+280101602  #   Wildtiere
+2801017    #  Mensch
+280101701  #   Körperbau, Organe und ihre Aufgaben
+280101702  #   Lebensbedürfnisse
+280101703  #   Gesundheitserziehung
+280101704  #   Sexualerziehung
+2801018    #  Sucht und Prävention
+2801019    #  Heimatkunde
+280101901  #   Heimatgeschichte
+280101902  #   Orientierung im geographischen Raum
+280101903  #   Brauchtum
+2801020    #  Zeiterfahrungen
+2801080    #  Bilingualer Unterricht
+28011      # Sport
+300        #Heimatraum, Region
+320        #Informationstechnische Bildung
+32001      # Informationstechnische Grundbildung
+3200101    #  Geschichte der IuK-Techniken
+3200102    #  Grundlagen der IuK-Techniken
+3200103    #  Anwendungen der IuK-Techniken
+3200104    #  Auswirkungen der IuK-Techniken
+32002      # Informatik
+3200201    #  Technische Informatik
+3200202    #  Angewandte Informatik
+320020201  #   Computergrafik
+320020202  #   Datenbanken
+320020203  #   Internet und Telekommunikation
+320020204  #   Simulation
+3200203    #  Theoretische Informatik
+3200204    #  Praktische Informatik
+320020401  #   Algorithmen und Datenstrukturen
+320020402  #   Betriebssysteme
+320020403  #   Programmiersprachen
+320020404  #   Programmierung
+320020405  #   Software-Projekte
+3200205    #  Informatik und andere Wissenschaften
+3200206    #  Informatik und Gesellschaft
+3200207    #  Künstliche Intelligenz
+3200208    #  Didaktik und Methodik des Informatikunterrichts
+32003      # Berufsbezogene informationstechnische Bildung
+3200301    #  Wirtschaftsinformatik
+3200302    #  Technische Kommunikation
+3200303    #  Prozessdatenverarbeitung
+3200304    #  CNC-Fertigung
+32004      # Algorithmische Verfahren
+340        #Interkulturelle Bildung
+34001      # Situation in den Herkunftsländern
+3400101    #  Migrationsursachen, Migrationsfolgen
+3400102    #  Alltagsleben, Alltagskultur
+34002      # Interkulturelles Zusammenleben
+3400201    #  Schule
+3400202    #  Freizeit
+3400203    #  Familie
+3400204    #  Arbeitswelt
+3400205    #  Gesellschaft, Öffentlichkeit
+360        #Kinder- und Jugendbildung
+36001      # Lebensbewältigung
+3600101    #  Beziehungen und Beziehungskonflikte
+3600102    #  Lebenskrisen
+36002      # Lebensformen, Lebensvorstellungen
+36003      # Leben miteinander
+36004      # Leben anderswo
+36005      # Beeinflussung durch Subkulturen, Ideologien, Jugendsekten
+36006      # Kreatives, künstlerisches Lernen
+36007      # Spiele
+380        #Mathematik
+38001      # Zahlen, Algebra
+38002      # Analysis, Analytische Geometrie
+38003      # Geometrie
+38004      # Endliche Mathematik, Stochastik
+38005      # Mathematik und Chaos
+38006      # Mathematische Anwendungen in anderen Gebieten
+400        #Medienpädagogik
+40001      # Grundlagen
+4000101    #  Kommunikationslehre
+4000102    #  Mediennutzung, Medienwirkung
+4000103    #  Medien im gesellschaftlichen System
+40002      # Medienpädagogische Handlungsfelder
+4000201    #  Druckmedien
+400020101  #   Medienkundlicher Aspekt
+400020102  #   Medienpädagogischer Aspekt
+4000202    #  Fotografie
+400020201  #   Medienkundlicher Aspekt
+400020202  #   Medienpädagogischer Aspekt
+4000203    #  Auditive Medien, Hörfunk
+400020301  #   Medienkundlicher Aspekt
+400020302  #   Medienpädagogischer Aspekt
+4000204    #  Film, Video
+400020401  #   Medienkundlicher Aspekt
+400020402  #   Medienpädagogischer Aspekt
+4000205    #  Fernsehen
+400020501  #   Medienkundlicher Aspekt
+400020502  #   Medienpädagogischer Aspekt
+4000206    #  Computer/Multimedia
+400020601  #   Medienkundlicher Aspekt
+400020602  #   Medienpädagogischer Aspekt
+4000207    #  Theater
+400020701  #   Medienkundlicher Aspekt
+400020702  #   Medienpädagogischer Aspekt
+40003      # Ergebnisse aktiver Medienarbeit
+40004      # Kompetenzen in der digitalen Welt
+4000401    #  Suchen, Verarbeiten und Aufbewahren
+400040101  #   Suchen und Filtern
+40004010101#    Arbeits- und Suchinteressen klären und festlegen
+40004010102#    Suchstrategien nutzen und weiterentwickeln
+40004010103#    In verschiedenen digitalen Umgebungen suchen
+40004010104#    Relevante Quellen identifizieren und zusammenführen
+400040102  #   Auswerten und Bewerten
+40004010201#    Informationen und Daten analysieren, interpretieren und kritisch bewerten
+40004010202#    Informationsquellen analysieren und kritisch bewerten
+400040103  #   Speichern und Abrufen
+40004010301#    Informationen und Daten sicher speichern, wiederfinden und von verschiedenen Orten abrufen
+40004010302#    Informationen und Daten zusammenfassen, organisieren und strukturiert aufbewahren
+4000402    #  Kommunizieren und Kooperieren
+400040201  #   Interagieren
+40004020101#    Mit Hilfe verschiedener digitaler Kommunikationsmöglichkeiten kommunizieren
+40004020102#    Digitale Kommunikationsmöglichkeiten zielgerichtet und situationsgerecht auswählen
+400040202  #   Teilen
+40004020201#    Dateien, Informationen und Links teilen
+40004020202#    Referenzierungspraxis beherrschen (Quellenangaben)
+400040203  #   Zusammenarbeiten
+40004020301#    Digitale Werkzeuge für die Zusammenarbeit bei der Zusammenführung von Informationen, Daten und Ressourcen nutzen
+40004020302#    Digitale Werkzeuge bei der gemeinsamen Erarbeitung von Dokumenten nutzen
+400040204  #   Umgangsregeln kennen und einhalten (Netiquette)
+40004020401#    Verhaltensregeln bei digitaler Interaktion und Kooperation kennen und anwenden
+40004020402#    Kommunikation der jeweiligen Umgebung anpassen
+40004020403#    Ethische Prinzipien bei der Kommunikation kennen und berücksichtigen
+40004020404#    Kulturelle Vielfalt in digitalen Umgebungen berücksichtigen
+400040205  #   An der Gesellschaft aktiv teilhaben
+40004020501#    Öffentliche und private Dienste nutzen
+40004020502#    Medienerfahrungen weitergeben und in kommunikative Prozesse einbringen
+40004020503#    Als selbstbestimmter Bürger aktiv an der Gesellschaft teilhaben
+4000403    #  Produzieren und Präsentieren
+400040301  #   Entwickeln und Produzieren
+40004030101#    Mehrere technische Bearbeitungswerkzeuge kennen und anwenden
+40004030102#    Eine Produktion planen und in verschiedenen Formaten gestalten, präsentieren, veröffentlichen oder teilen
+400040302  #   Weiterverarbeiten und Integrieren
+40004030201#    Inhalte in verschiedenen Formaten bearbeiten, zusammenführen, präsentieren und veröffentlichen oder teilen
+40004030202#    Informationen, Inhalte und vorhandene digitale Produkte weiterverarbeiten und in bestehendes Wissen integrieren
+400040303  #   Rechtliche Vorgaben beachten
+40004030301#    Bedeutung von Urheberrecht und geistigem Eigentum kennen
+40004030302#    Urheber- und Nutzungsrechte (Lizenzen) bei eigenen und fremden Werken berücksichtigen
+40004030303#    Persönlichkeitsrechte beachten
+4000404    #  Schützen und sicher Agieren
+400040401  #   Sicher in digitalen Umgebungen agieren
+40004040101#    Risiken und Gefahren in digitalen Umgebungen kennen, reflektieren und berücksichtigen
+40004040102#    Strategien zum Schutz entwickeln und anwenden
+400040402  #   Persönliche Daten und Privatsphäre schützen
+40004040201#    Maßnahmen für Datensicherheit und gegen Datenmissbrauch berücksichtigen
+40004040202#    Privatsphäre in digitalen Umgebungen durch geeignete Maßnahmen schützen
+40004040203#    Sicherheitseinstellungen ständig aktualisieren
+40004040204#    Jugendschutz- und Verbraucherschutzmaßnahmen berücksichtigen
+400040403  #   Gesundheit schützen
+40004040301#    Suchtgefahren vermeiden, sich selbst und andere vor möglichen Gefahren schützen
+40004040302#    Digitale Technologien gesundheitsbewusst nutzen
+40004040303#    Digitale Technologien für soziales Wohlergehen und Eingliederung nutzen
+400040404  #   Natur und Umwelt schützen
+40004040401#    Umweltauswirkungen digitaler Technologien berücksichtigen
+4000405    #  Problemlösen und Handeln
+400040501  #   Technische Probleme lösen
+40004050101#    Anforderungen an digitale Umgebungen formulieren
+40004050102#    Technische Probleme identifizieren
+40004050103#    Bedarfe für Lösungen ermitteln und Lösungen finden bzw. Lösungsstrategien entwickeln
+400040502  #   Werkzeuge bedarfsgerecht einsetzen
+40004050201#    Eine Vielzahl von digitalen Werkzeugen kennen und kreativ anwenden
+40004050202#    Anforderungen an digitale Werkzeuge formulieren
+40004050203#    Passende Werkzeuge zur Lösung identifizieren
+40004050204#    Digitale Umgebungen und Werkzeuge zum persönlichen Gebrauch anpassen
+400040503  #   Eigene Defizite ermitteln und nach Lösungen suchen
+40004050301#    Eigene Defizite bei der Nutzung digitaler Werkzeuge erkennen und Strategien zur Beseitigung entwickeln
+40004050302#    Eigene Strategien zur Problemlösung mit anderen teilen
+400040504  #   Digitale Werkzeuge und Medien zum Lernen, Arbeiten und Problemlösen nutzen
+40004050401#    Effektive digitale Lernmöglichkeiten finden, bewerten und nutzen
+40004050402#    Persönliches System von vernetzten digitalen Lernressourcen selbst organisieren können
+400040505  #   Algorithmen erkennen und formulieren
+40004050501#    Funktionsweisen und grundlegende Prinzipien der digitalen Welt kennen und verstehen
+40004050502#    Algorithmische Strukturen in genutzten digitalen Tools erkennen und formulieren
+40004050503#    Eine strukturierte, algorithmische Sequenz zur Lösung eines Problems planen und verwenden
+4000406    #  Analysieren und Reflektieren
+400040601  #   Technische Probleme lösen
+40004060101#    Gestaltungsmittel von digitalen Medienangeboten kennen und bewerten
+40004060102#    Interessengeleitete Setzung, Verbreitung und Dominanz von Themen in digitalen Umgebungen erkennen und beurteilen
+40004060103#    Wirkungen von Medien in der digitalen Welt (z. B. mediale Konstrukte, Stars, Idole, Computerspiele, mediale Gewaltdarstellungen) analysieren und konstruktiv damit umgehen
+400040602  #   Medien in der digitalen Welt verstehen und reflektieren
+40004060201#    Vielfalt der digitalen Medienlandschaft kennen
+40004060202#    Chancen und Risiken des Mediengebrauchs in unterschiedlichen Lebensbereichen erkennen, eigenen Mediengebrauch reflektieren und ggf. modifizieren
+40004060203#    Vorteile und Risiken von Geschäftsaktivitäten und Services im Internet analysieren und beurteilen
+40004060204#    Wirtschaftliche Bedeutung der digitalen Medien und digitaler Technologien kennen und sie für eigene Geschäftsideen nutzen
+40004060205#    Die Bedeutung von digitalen Medien für die politische Meinungsbildung und Entscheidungsfindung kennen und nutzen
+40004060206#    Potenziale der Digitalisierung im Sinne sozialer Integration und sozialer Teilhabe erkennen, analysieren und reflektieren
+420        #Musik
+42001      # Außereuropäische Musik
+42002      # Europäische Zeitstile
+4200201    #  Anfänge der abendländischen Musik
+4200202    #  Mittelalterliche Ein- und Mehrstimmigkeit
+4200203    #  Renaissance
+4200204    #  Barock
+4200205    #  Klassik
+4200206    #  Romantik
+4200207    #  Impressionismus
+4200208    #  Moderne
+42003      # Musikarten
+4200301    #  Vokalmusik
+420030101  #   Chormusik
+420030102  #   Volkslied
+420030103  #   Kunstlied
+420030104  #   Kinderlied
+4200302    #  Instrumentalmusik
+420030201  #   Orchestermusik
+420030202  #   Kammermusik
+4200303    #  Theater- und Filmmusik
+420030301  #   Oper
+420030302  #   Operette
+420030303  #   Musical
+420030304  #   Ballett
+420030305  #   Filmmusik
+420030306  #   Musikvideo
+4200304    #  Populäre Musik
+420030401  #   Unterhaltungsmusik / Schlager
+420030402  #   Jazz und Blues
+420030403  #   Rock- und Popmusik
+420030404  #   Chanson, Liedermacher, Kleinkunst
+420030405  #   Neue Stilrichtungen
+4200305    #  Religiöse Musik
+4200306    #  Funktionelle Musik
+4200307    #  Tanzmusik
+42004      # Interpretation
+42005      # Musik und Gesellschaft
+42006      # Musik und Technik
+42007      # Musiktheorie
+4200701    #  Akustik
+4200702    #  Formenlehre
+4200703    #  Harmonielehre
+4200704    #  Instrumentenkunde
+4200705    #  Notation
+4200706    #  Arrangement
+42008      # Unterrichtsorientierte Zusammenstellungen
+4200801    #  Musikalische Elementarbildung
+4200802    #  Komponistenporträt
+4200803    #  Musikgeschichte
+4200804    #  Produktion
+4200805    #  Werkauswahl
+42080      # Bilingualer Unterricht
+440        #Pädagogik
+44001      # Allgemeine Pädagogik
+4400101    #  Grundfragen
+4400102    #  Forschungsmethoden
+4400103    #  Geschichte der Pädagogik
+4400104    #  Vergleichende Pädagogik
+4400105    #  Kommunikations- und Interaktionsprozesse
+4400106    #  Bildungsökonomie, Bildungsplanung
+44002      # Pädagogische Psychologie
+4400201    #  Grundfragen
+4400202    #  Methoden
+4400203    #  Entwicklungspsychologie
+4400204    #  Lernpsychologie
+4400205    #  Sozialpsychologie
+44003      # Vorschulpädagogik
+44004      # Schulpädagogik
+4400401    #  Grundfragen
+4400402    #  Methodik, Didaktik
+44005      # Berufspädagogik
+44006      # Sonderpädagogik
+44007      # Sozialpädagogik
+4400701    #  Pädagogik der Jugendarbeit
+4400702    #  Sozialarbeit mit Erwachsenen
+4400703    #  Seniorenarbeit
+44008      # Erwachsenenpädagogik
+44009      # Ausländerpädagogik
+44010      # Eltern und Erziehung
+44011      # Inklusion
+450        #Philosophie
+45001      # Außereuropäische Philosophie
+4500101    #  Indische Philosophie  
+4500102    #  Chinesische Philosophie
+4500103    #  Japanische Philosophie  
+4500104    #  Philosophie des arabisch-islamischen Kulturraums  
+45002      # Epochen
+4500201    #  Antike Philosophie  
+4500202    #  Philosophie des Mittelalters  
+4500203    #  Frühneuzeitliche Philosophie  
+4500204    #  Philosophie des 19. Jahrhunderts  
+4500205    #  Philosophie des 20. Jahrhunderts  
+4500206    #  Philosophie der Gegenwart  
+45003      # Philosophische Gegenwartsfragen
+4500301    #  Wissenschaftstheorie
+4500302    #  Religionskritik  
+4500303    #  Naturphilosophie
+4500304    #  Technikphilosophie  
+4500305    #  Medienphilosophie  
+4500306    #  Philosophie des Geistes  
+4500307    #  Ethische Grundfragen  
+45004      # Biographien
+45005      # Praktische Philosophie
+460        #Physik
+46001      # Klassische Mechanik
+4600101    #  Statik
+4600102    #  Kinematik, Dynamik
+4600103    #  Schwingungen, Wellen, Akustik
+4600104    #  Technische Anwendungen
+46002      # Wärmelehre
+4600201    #  Temperatur, Wärmemenge
+4600202    #  Aggregatzustände, Lösungen
+4600203    #  Wärmetheorie
+4600204    #  Technische Anwendungen
+46003      # Optik
+4600301    #  Geometrische Optik
+4600302    #  Wellenoptik
+4600303    #  Fotometrie
+4600304    #  Farbenlehre
+4600305    #  Technische Anwendungen
+46004      # Magnetismus
+46005      # Elektrizitätslehre
+4600501    #  Elektrostatik
+4600502    #  Elektrodynamik
+4600503    #  Elektronik
+4600504    #  Technische Anwendungen
+46006      # Relativitätstheorie
+46007      # Quantentheorie
+46008      # Atomphysik
+4600801    #  Atombau, Spektren
+4600802    #  Nachweismethoden
+4600803    #  Technische Anwendungen
+46009      # Kernphysik
+4600901    #  Aufbau der Kerne
+4600902    #  Radioaktivität, Kernumwandlung
+4600903    #  Nachweismethoden
+4600904    #  Technische Anwendungen
+46010      # Chaostheorie
+46011      # Elementarteilchenphysik
+46012      # Festkörperphysik
+46013      # Biophysik
+46014      # Astronomie
+4601401    #  Himmelsmechanik
+4601402    #  Astrophysik, Geophysik
+4601403    #  Weltraumfahrt
+46015      # Technologie
+46016      # Biographien
+46080      # Bilingualer Unterricht
+480        #Politische Bildung
+48001      # Politische Theorien
+48002      # Politisches System der Bundesrepublik Deutschland
+4800201    #  Mitwirkung am politischen Prozess
+480020101  #   Bürgerbeteiligung
+480020102  #   Parteien
+480020103  #   Organisationen
+480020104  #   Massenmedien
+4800202    #  Kommunale Ebene
+480020201  #   Kommunalwahlen
+480020202  #   Kommunale Institutionen
+480020203  #   Kommunalpolitik
+4800203    #  Politische Ordnung des Bundeslandes
+480020301  #   Landtagswahl
+480020302  #   Regierungssystem
+480020303  #   Landesgesetzgebung
+4800204    #  Politische Ordnung des Bundes
+480020401  #   Bundestagswahl
+480020402  #   Parlamentarisches Regierungssystem
+480020403  #   Bundesgesetzgebung
+480020404  #   Zusammenwirken von Bund und Ländern
+48003      # Politische Systeme anderer Länder
+48004      # Politikfelder
+4800401    #  Bildung, Kultur, Forschung
+4800402    #  Innere Sicherheit
+4800403    #  Internationale Beziehungen
+480040301  #   Europäische Union
+480040302  #   Sonstige europäische Aspekte
+480040303  #   Außereuropäische Beziehungen
+480040304  #   Dritte Welt, Entwicklungspolitik
+480040305  #   Konflikte
+480040306  #   Friedenspolitik, Sicherheitspolitik
+480040307  #   Internationale Hilfsorganisationen und Interessensvertretungen
+480040308  #   Globalisierung
+4800404    #  Raumordnung, Städtebau, Verkehr
+4800405    #  Recht
+480040501  #   Menschenrechte
+480040502  #   Verfassungen
+480040503  #   Arbeitsrecht
+480040504  #   Zivilrecht
+480040505  #   Strafrecht
+480040506  #   Öffentliches Recht
+480040507  #   Sozialrecht
+4800406    #  Sozialpolitik
+4800407    #  Verteidigungspolitik
+4800408    #  Wirtschaftspolitik
+48005      # Gesellschaftspolitische Gegenwartsfragen
+4800501    #  Arbeit
+4800502    #  Armut, soziale Unterschiede
+4800503    #  Formen des Zusammenlebens
+4800504    #  Freizeit
+4800505    #  Gewalt
+4800506    #  Gleichberechtigung
+4800507    #  Migration
+4800508    #  Randgruppen
+4800509    #  Schule, Ausbildung
+4800510    #  Verhältnis der Generationen
+4800511    #  Vorurteile, Rassismus
+4800512    #  Umwelt, Energie
+48006      # Individuum und Gesellschaft
+4800601    #  Sozialisation, Verhalten
+4800602    #  Kommunikation, Massenkommunikation
+48007      # Politische Persönlichkeiten
+48080      # Bilingualer Unterricht
+500        #Praxisorientierte Fächer
+50001      # Hauswirtschaft
+5000101    #  Ernährungslehre
+5000102    #  Kochen
+5000103    #  Wirtschaften im privaten Haushalt
+5000104    #  Haushalt und Umwelt
+5000105    #  Wohnung
+5000106    #  Unfallverhütung
+50002      # Maschinenschreiben, Textverarbeitung, Kurzschrift
+50003      # Schulgarten
+50004      # Textiles Gestalten
+5000401    #  Materialien
+5000402    #  Techniken
+5000403    #  Maschinenkunde
+50005      # Werken
+5000501    #  Holz, Kunststoff
+5000502    #  Metall
+5000503    #  Ton
+5000504    #  Papier, Pappe
+5000505    #  Andere Materialien
+5000506    #  Elektrotechnik
+5000507    #  Maschinentechnik
+5000508    #  Grundlagen des technischen Zeichnens
+5000509    #  Unfallverhütung
+510        #Psychologie
+520        #Religion
+52001      # Religionskunde
+5200101    #  Riten, Symbole
+5200102    #  Christliche Konfessionen
+5200103    #  Nichtchristliche Religionen
+5200104    #  Sekten, neue religiöse Strömungen
+5200105    #  Weltanschauungen, Ideologien
+5200106    #  Magie, Aberglaube
+5200107    #  Naturreligionen, Animismus, Schamanismus
+52002      # Bibel
+5200201    #  Altes Testament
+5200202    #  Neues Testament
+52003      # Kirche und Gesellschaft
+5200301    #  Kirchengeschichte
+5200302    #  Kirchliche Strukturen
+5200303    #  Gemeindeleben
+5200304    #  Kirchliche Gruppen, Verbände
+5200305    #  Orden, Kommunitäten
+5200306    #  Kirchliche Berufe
+5200307    #  Kirchliche Sozialarbeit
+5200308    #  Kirche und Staat
+5200309    #  Kirche und säkularisiertes Leben
+5200310    #  Kirche und Entwicklungsländer
+5200311    #  Mission
+5200312    #  Ökumene
+52004      # Kult und Frömmigkeit
+5200401    #  Kirchenjahr
+5200402    #  Gottesdienst
+5200403    #  Gebet
+5200404    #  Meditation
+5200405    #  Sakramente
+5200406    #  Religiöses Brauchtum
+52005      # Religiöse Lebensgestaltung
+5200501    #  Grunderfahrungen
+520050101  #   Wahrnehmung der Schöpfung
+520050102  #   Vertrauen
+520050103  #   Gemeinschaft
+520050104  #   Verlust
+520050105  #   Tod
+5200502    #  Glaube
+5200503    #  Ethik
+5200504    #  Erziehung und Bildung
+5200505    #  Persönlichkeitsbilder
+52006      # Religiöse Kunst
+5200601    #  Bild und Plastik
+5200602    #  Musik
+5200603    #  Theater
+5200604    #  Film
+5200605    #  Literatur
+5200606    #  Architektur
+540        #Retten, Helfen, Schützen
+54001      # Unfallverhütung
+54002      # Brandschutz, Brandbekämpfung
+54003      # Katastrophenschutz
+54004      # Hilfsdienste, Rettungsdienste
+54005      # Erste Hilfe
+560        #Sexualerziehung
+56001      # Sexualität
+56002      # Pubertät
+56003      # Partnerschaft, Beziehungen
+56004      # Schwangerschaft und Geburt
+56005      # Empfängnisverhütung
+56006      # Sexueller Missbrauch
+56007      # Sexuell übertragbare Krankheiten
+580        #Spiel- und Dokumentarfilm
+58001      # Kurzfilm
+5800102    #  Kurzspielfilm
+580010205  #   Literaturverfilmung
+580010210  #   Abenteuer
+580010211  #   Action
+580010212  #   Biografie
+580010214  #   Drama, Schicksal
+580010216  #   Experimentalfilm, Avantgarde
+580010218  #   Gesellschafts- und sozialkritischer Film
+580010220  #   Gewalt, Aggression
+580010221  #   Heimat
+580010222  #   Historienfilm
+580010223  #   Horror
+580010224  #   Katastrophe
+580010226  #   Komödie, Satire, Parodie
+580010227  #   Kriegsfilm, Antikriegsfilm
+580010228  #   Krimi, Thriller, Justiz
+580010230  #   Lebenssinn
+580010240  #   Liebe, Freundschaft
+580010250  #   Macht, Machtmissbrauch
+580010260  #   Märchen, Sagen, Legenden
+580010263  #   Milieufilm
+580010266  #   Musik, Tanz
+580010270  #   Politik, Geschichte
+580010273  #   Sciencefiction, Fantasy
+580010275  #   Theaterverfilmung
+580010277  #   Tierkurzfilm
+580010280  #   Tod, Sterben
+580010285  #   Western
+580010290  #   Sonstige Gattungen
+5800103    #  Trickfilm
+580010301  #   Zeichentrick
+580010302  #   Puppentrick
+580010303  #   Scherenschnitt
+580010304  #   Sonstige Trickarten
+580010305  #   Computeranimation
+58002      # Langfilm
+5800202    #  Halbdokumentarischer Spielfilm
+5800203    #  Spielfilm
+580020301  #   Abenteuer
+580020302  #   Biographie
+580020303  #   Experimentalfilm, Avantgarde
+580020304  #   Horror
+580020305  #   Heimat
+580020306  #   Katastrophe
+580020307  #   Komödie, Satire, Parodie
+580020308  #   Kriegsfilm, Antikriegsfilm
+580020309  #   Krimi, Thriller, Justiz
+580020310  #   Liebe, Freundschaft
+580020311  #   Märchen, Sagen, Legenden
+580020312  #   Monumentalfilm, Historienfilm
+580020313  #   Musik, Tanz
+580020314  #   Politik, Geschichte
+580020315  #   Sciencefiction, Fantasy
+580020316  #   Western
+580020317  #   Sonstige Gattungen
+580020318  #   Literaturverfilmung
+580020319  #   Action
+580020320  #   Drama, Schicksal
+580020321  #   Tierspielfilm
+580020322  #   Gesellschafts- und sozialkritischer Film
+580020323  #   Macht, Machtmissbrauch
+580020324  #   Milieufilm
+580020325  #   Theaterverfilmung
+580020326  #   Tod, Sterben
+5800204    #  Trickfilm
+58003      # Zielgruppenfilm
+5800301    #  Kinderfilm
+5800302    #  Jugendfilm
+58004      # Dokumentarfilm
+600        #Sport
+60001      # Sportwissenschaft
+6000101    #  Trainings- und Bewegungslehre
+6000102    #  Sportgeschichte
+6000103    #  Sportpädagogik
+6000104    #  Sportpsychologie
+6000105    #  Sportsoziologie
+6000106    #  Sportmedizin
+6000107    #  Sportdidaktik
+6000108    #  Biomechanik
+60002      # Sportbereiche
+6000201    #  Altensport
+6000202    #  Behindertensport
+6000203    #  Betriebssport
+6000204    #  Breitensport
+6000205    #  Kinder- und Jugendsport
+6000206    #  Leistungssport
+6000207    #  Schulsport
+6000208    #  Gesundheitssport
+6000270    #  Sonstige Sportbereiche
+60003      # Sportarten
+6000301    #  Gerätturnen
+6000302    #  Gymnastik, Tanz
+600030201  #   Gymnastik
+600030202  #   Entspannung
+600030203  #   Tanz
+600030204  #   Theatersport
+6000303    #  Leichtathletik
+6000304    #  Spielsportarten
+600030401  #   Basketball
+600030402  #   Fußball
+600030403  #   Handball
+600030404  #   Tennis
+600030405  #   Volleyball
+600030406  #   Weitere Spielsportarten und Spiele
+600030407  #   Badminton
+600030408  #   Tischtennis
+600030409  #   Hockey
+600030410  #   Integrative Spiele
+600030411  #   Kleine Spiele
+6000305    #  Wassersport
+6000306    #  Wintersport, Schneesport
+6000307    #  Sonstige Sportarten
+600030701  #   Golf
+600030702  #   Wurfscheibe
+600030703  #   Akrobatik
+600030704  #   Cheerleading
+600030705  #   Luftkissenbahn
+600030706  #   Kampfsport
+600030707  #   Kraftsport
+600030708  #   Urbansport
+600030709  #   Klettern
+600030710  #   Pferdesport
+600030711  #   Radsport
+60004      # Sportorganisation
+60005      # Olympische Spiele
+60006      # Sport und Kunst
+60007      # Sport und Recht
+60008      # Sport und Umwelt
+60009      # Sportstätten
+60010      # Sport und Physik
+60011      # Sport und Ernährung
+60012      # Sport und Erziehung
+60013      # Sport und Biologie
+60080      # Bilingualer Unterricht
+620        #Sucht und Prävention
+62001      # Suchtursachen
+62002      # Drogen
+6200201    #  Alkohol
+6200202    #  Nikotin
+6200203    #  Rauschgifte
+6200204    #  Sonstige Drogen
+6200205    #  Medikamente
+62003      # Sonstige Abhängigkeiten
+62004      # Prävention, Therapie
+62005      # Gesellschaftliche Aspekte
+62080      # Bilingualer Unterricht
+640        #Umweltgefährdung, Umweltschutz
+64001      # Wasser
+64002      # Boden
+64003      # Luft
+64004      # Klima
+64005      # Wald
+64006      # Arten, Biotope
+64007      # Landschaft
+64008      # Landwirtschaft und Nahrungsmittelproduktion
+64009      # Abfall
+64010      # Energie
+64011      # Lärm
+64012      # Verkehr
+64013      # Freizeit und Tourismus
+64014      # Bauen und Wohnen
+64015      # Umwelt in Politik und Wirtschaft
+64016      # Umweltbewusstes Handeln
+64017      # Themenübergreifende Darstellungen
+660        #Verkehrserziehung
+66001      # Verkehrsverhalten
+6600101    #  Fußgänger
+6600102    #  Radfahrer
+6600103    #  Motorisierter Zweiradfahrer
+6600104    #  Autofahrer
+6600105    #  Sonstige
+66002      # Verkehrsmittel
+6600201    #  Fahrrad
+6600202    #  Motorisiertes Zweirad
+6600203    #  Automobil
+6600204    #  Bahn
+6600205    #  Schiff
+6600206    #  Flugzeug
+66003      # Verkehrswege
+66004      # Verkehrsrecht
+66005      # Verkehrspolitik
+66006      # Sicherheitstechnik, Fahrphysik
+66007      # Verkehrspsychologie, Verkehrssoziologie
+66008      # Verkehrsmedizin
+66009      # Verkehr und Wetter
+66010      # Verkehr und Umweltschutz
+66011      # Verkehrsunfall
+680        #Weiterbildung
+68001      # Grundlagen der Weiterbildung
+68002      # Politische Weiterbildung
+68003      # Kulturelle Weiterbildung
+68004      # Kreative Weiterbildung
+68005      # Elternbildung, Familienbildung
+68006      # Wirtschaftliche Weiterbildung
+68007      # Mathematisch-naturwissenschaftliche Weiterbildung
+68008      # Sprachliche Weiterbildung
+68009      # Gesundheitliche und sportliche Weiterbildung
+68010      # Schulische Weiterbildung, Zweiter Bildungsweg
+68011      # Zielgruppenangebot
+700        #Wirtschaftskunde
+70001      # Privater Haushalt
+7000101    #  Umgang mit Geld
+7000102    #  Verbrauchererziehung, Verbraucherschutz
+70002      # Betriebswirtschaft
+7000201    #  Unternehmensformen, Unternehmensstrukturen
+7000202    #  Bilanzierung, Leistungserstellung
+70003      # Volkswirtschaft
+7000301    #  Markt und Preis
+7000302    #  Geld und Kredit
+7000303    #  Arbeit und Lohn
+7000304    #  Sozialpolitik, Wirtschaftspolitik
+7000305    #  Öffentliche Finanzwirtschaft, Steuern
+7000306    #  Weltwirtschaft
+7000307    #  Wirtschaftssysteme
+70080      # Bilingualer Unterricht
+720        #Sachgebietsübergreifende Themen

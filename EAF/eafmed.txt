@@ -1,0 +1,85 @@
+01#Buch
+09#eBook
+10#Diareihe 5x5
+12#Arbeitstransparentreihe
+13#Transparentstreifen
+14#Tonbildreihe (Spule)
+15#Kassetten-Tonbildreihe
+16#Bild-CD
+19#Digitales Bild
+20#Tonband mono
+21#Tonband stereo
+22#Kassetten-Tonband mono
+23#Kassetten-Tonband stereo
+24#Audio-CD/DVD
+27#Schallplatte mono
+28#Schallplatte stereo
+29#Audiodatei digital
+30#Film 16mm stumm
+31#Film 16mm separater Magnetton
+32#Film 16mm Lichtton
+33#Film 16mm Magnetton
+34#Film 35mm Lichtton
+36#Film 8S stumm
+37#Film 8S Lichtton
+38#Film 8S Magnetton
+40#U-matic-Videokassette
+41#Videokassette VCR
+42#Videokassette VHS
+43#Videokassette Video 2000
+44#Videokassette S-VHS
+46#Video-DVD/CD
+4601#CDV-Single
+4602#CDV-EP
+4603#CDV-LP
+4604#DVD-Video didaktisch
+4605#DVD-Video
+47#Blu-ray Disc
+4701#BD Video didaktisch
+4702#BD Video
+49#Film/Video digital
+50#Medienpaket
+55#Online-Medium
+5501#Onlinevideo
+5502#Lernobjekt
+5503#Podcast Audio
+5504#Podcast Video
+5505#Web-DVD
+5506#Mediathek
+5509#Online-DVD
+5510#Multimediales Online-Medium
+5513#Onlinevideo (Hauptfilm)
+5514#E-Book
+5515#Interaktives Online-Medium
+56#Medienmodul
+5601#Filmclip
+5602#Interaktion
+5603#Animation
+5604#Simulation
+5605#Audioclip
+57#Online-DVD
+60#Software DOS 5,25"
+61#Software DOS 3,5"
+62#Software Windows
+63#Software Apple
+64#Software Commodore
+65#Software Atari
+66#CD-ROM
+67#DVD-ROM
+69#Download-Software
+70#Lernmittel
+71#Kopiervorlagensatz
+72#Bild / Schaubild / Schautafel
+73#Karte
+74#Modell / Präparat
+75#Lehrmittel
+79#Digitales Dokument
+7901#Arbeitsblatt PDF
+7902#Arbeitsblatt Word
+7903#Arbeitsblatt PDF zum Ausfüllen
+7904#Arbeitsblatt Lösung
+7905#Stationenlernen
+80#Technisches Zubehör
+81#Gerät
+90#Externe Angebote
+99#Lokale Medien der Medienzentren

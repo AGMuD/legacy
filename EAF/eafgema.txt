@@ -1,0 +1,5 @@
+GEMA  #Dieses Medium ist GEMA-pflichtig
+GEGVL #Dieses Medium ist GEMA- und GVL-pflichtig
+MUSIK #Dieses Medium enthält Musik, die GEMA-Pflichtigkeit muss noch geklärt werden
+GEFREI#Dieses Medium ist GEMA-frei
+KEINE #Dieses Medium enthält keine Musik

@@ -1,0 +1,3 @@
+10#Reserviert
+20#Erschlossen
+30#Admin-geprüft

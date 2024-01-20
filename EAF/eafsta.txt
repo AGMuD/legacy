@@ -1,0 +1,72 @@
+be01#Landesbildstelle Berlin
+br01#Medienpädagogisches Zentrum Land Brandenburg
+bu01#Landesbildstelle Burgenland
+bw01#Landesbildstelle Baden
+bw02#Landesbildstelle Württemberg
+by01#Staatliche Landesbildstelle Nordbayern
+by02#Staatliche Landesbildstelle Südbayern
+bz01#Amt für audiovisuelle Medien, Bozen
+fwu#FWU Institut für Film und Bild in Wissenschaft und Unterricht gemmeinnützige GmbH, Grünwald
+hb01#Landesbildstelle Bremen
+he01#Zentralstelle Medien, Daten und Informationen im HeLP - Landesbildstelle Hessen -
+hh01#Landesmedienzentrum Hamburg
+kä01#Landesbildstelle Kärnten
+mv01#L.I.S.A Mecklenburg-Vorpommern - Medienzentrum -
+nö01#Landesbildstelle Niederösterreich
+ns01#Niedersächsisches Landesinstitut für Fortbildung und Weiterbildung im Schulwesen und Medienpädagogik - Dezernat Medienpädagogik
+nw01#Medienzentrum Rheinland
+nw02#Landesbildstelle Westfalen
+oö01#Landesbildstelle Oberösterreich
+rp01#Landesmedienzentrum Rheinland-Pfalz
+sl01#Landesinstitut für Pädagogik und Medien Saarland - Landesbildstelle -
+sn01#Sächsisches Staatsinstitut für Bildung und Schulentwicklung - Landesmedienzentrum -
+sh01#IPTS Landesmedienzentrum Schleswig-Holstein
+sm01#Landesbildstelle Steiermark
+st01#Landesinstitut für Lehrerfortbildung, Lehrerweiterbildung und Unterrichtsforschung von Sachsen-Anhalt (LISA), Landesstelle für Medienangelegenheiten
+sz01#Landesstelle für audiovisuelle Lehrmittel, Salzburg
+th01#Thüringer Institut für Lehrerfortbildung, Lehrplanentwicklung und Medien (ThILLM)
+ti01#Tiroler Bildungsinstitut, Medienzentrum des Landes Tirol
+va01#Schulmedienstelle des Landes Vorarlberg
+wi01#MA 13, Landesbildstelle Wien
+KMZ01#Katechetisches Institut des Bistums Aachen
+KMZ02#AV-Medienzentrale Diözese Augsburg
+KMZ03#AV-Medienzentrale Erzdiözese Bamberg
+KMZ04#AV-Medienzentrale des Erzbistums Berlin
+KMZ05#AV-Medienzentrale Diözese Eichstätt
+KMZ06#Diözesanstelle Film-Funk-Fernsehen-Presse der Diözese Essen
+KMZ07#Bild- und Filmstelle der Erzdiözese Freiburg
+KMZ08#Bischöfliches Generalvikariat Fulda AV-Medienzentrale
+KMZ09#Diözesan Medienstelle Hildesheim
+KMZ10#AV-Medienzentrale des Erzbistums Köln
+KMZ11#Bischöfliches Ordinariat Limburg / Referat Medienarbeit
+KMZ12#AV-Medienzentrale Mainz / Gemeinsamer Dienst der Diözesen Fulda, Limburg, Mainz, Speyer und Trier
+KMZ13#AV-Medienzentrale Erzdiözese München und Freising
+KMZ14#Mediothek / Bischöfliches Generalvikariat Münster
+KMZ15#Bischöfliches Generalvikariat Osnabrück / Abt. Gemeindepastoral / Gemeindebildung / Referat Religionspädagogische Arbeitsstelle / Diözesanmediendienst
+KMZ16#Medienzentrum für das Erzbistum Paderborn
+KMZ17#AV-Medienzentrale der Diözese Passau
+KMZ18#AV-Medienzentrale Diözese Regensburg
+KMZ19#Fachstelle für Medienarbeit / Diözese Rottenburg-Stuttgart
+KMZ20#AV-Medien-Zentrale / Diözese Würzburg
+KMZ21#Bistum Erfurt / Diözesan-Medienstelle
+KMZ22#Bistum Dresden-Meißen / Bischöfliches Ordinariat Medienverleih
+KMZ23#Medienladen Saar / Bistum Trier/ Abt. Medien
+EMZ01#Kein Verleih mehr
+EMZ02#Evang. Medienzentrale in Bayern
+EMZ03#Evang. Medienzentrale Berlin-Brandenburg
+EMZ04#Medienzentrale der Ev.-luth. Landeskirche in Braunschweig
+EMZ05#Evang. Medienzentrale der Brehmischen Evang. Kirche Haus kirchlicher Dienste
+EMZ06#Nordelbische Medienzentrale im Pädagogisch-Theologischen Institut
+EMZ07#Medienzentrale im Amt für Gemeindedienst
+EMZ08#Ton- und Bildstelle e.V., Medienzentrale der EKHN
+EMZ09#Evang. Kirche der Pfalz Landeskirchenrat Medienzentrale
+EMZ10#Film Funk Fernseh Zentrum der Evang. Kirche im Rhld. (FFFZ) / Medienhaus
+EMZ11#Evang. Filmzentrale / Evang. Presse- und Verlagshaus
+EMZ12#Evang. Medienzentrale Württemberg
+EMZ13#Evang. Medienzentrale Kurhessen-Waldeck / Medienzentrale
+EMZ14#Evang.-Luth. Kirche in Thüringen Medienzentrale
+EMZ15#Evang. Medienzentrale Magdeburg
+EMZ16#Medienzentrale der Pommerischen Evang. Kirche
+EMZ17#Konsistorium der Evang. Kirche der schlesischen Oberlausitz Medienstelle
+EMZ18#Evang. Medienzentrale in Sachsen
+EMZ19#Evang. Landeskirche Anhalts Büro für Gemeindeaufbau und Evang. Medienzentrale

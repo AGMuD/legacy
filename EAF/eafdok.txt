@@ -1,0 +1,27 @@
+BR#Bayerischer Rundfunk
+FWU#FWU Institut für Film und Bild in Wissenschaft und Unterricht
+LABI#Landesbildstellen
+LBBA#Landesbildstelle Baden
+LBBB#Medienpädagogisches Zentrum Land Brandenburg
+LBBE#Landesbildstelle Berlin
+LBBN#Landesbildstelle Nordbayern
+LBBS#Landesbildstelle Südbayern
+LBBW#Medienzentrum Baden-Württemberg
+LBHB#Landesbildstelle Bremen
+LBHE#Landesbildstelle Hessen
+LBHH#Landesbildstelle Hamburg
+LBMV#Landesinstitut Mecklenburg-Vorpommern
+LBNI#Niedersächisches Landesinstitut, Dezernat 4
+LBRL#Landesbildstelle Rheinland
+LBRP#Landesmedienzentrum Rheinland-Pfalz
+LBSA#Landesstelle für Medienangelegenheiten Sachsen-Anhalt
+LBSH#Landesbildstelle Schleswig-Holstein
+LBSL#Landesbildstelle Saarland
+LBSN#Sächisches Staatsinstitut für Bildung und Schulentwicklung
+LBTH#Thüringer Institut für Lehrerfortbildung, Lehrplanentw. u. Medien
+LBWB#Landesbildstelle Württemberg
+LBWF#Landesbildstelle Westfalen
+SFS#Schulfernsehsendung
+SODI#SODIS - Software Dokumentations- und Informationssystem
+SWR#Südwestrundfunk
+WDR#Westdeutscher Rundfunk
