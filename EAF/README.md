@@ -1,4 +1,4 @@
-# EAF – Erweitertes Austauschformat 
+# EAF – Erweitertes Austauschformat 1988-2012
 
 Das seit 1988 bestehende Datenbankserviceformat des FWU wurde – und wird – seit vielen Jahren sowohl als Import-, wie auch als Exportformat von den diversen Medienverwaltungsprogrammen verwendet. In dem Wissen, dass Veränderungen immer auch einen ganzen Rattenschwanz an Anpassungen in der Medienzentrenlandschaft nach sich ziehen, wurde das Format immer nur vorsichtig den jeweiligen Anforderungen gegenüber angepasst.
 >[!NOTE]
