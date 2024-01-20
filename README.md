@@ -1,2 +1,2 @@
 # legacy
-Legacy Documents from AGMuD Website
+Legacy Documents from the AGMuD Website
